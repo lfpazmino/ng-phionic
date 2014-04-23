@@ -16,14 +16,22 @@ Bower Libraries Dependencies ('bower.json'):
 > bower update
 
 Grunt tasks:
->grunt clean (Clean up the project, leaving only the source code)
->grunt build (Build app)
->grunt serve (Init the grunt server watching changes)
->grunt generate (Generate native apps)
+
+~Clean up the project, leaving only the source code~
+> grunt clean
+
+~Build app~
+> grunt build
+
+~Init the grunt server watching changes~
+> grunt serve
+
+~Generate native apps~
+> grunt generate
 
 Currently supporting only android, ios will be updated as soon as possible
 
 
-Inspired by MNCC Blog (http://blog.mncc.fr/2014/02/10/quickly-start-app-with-yeoman-ionic-angular-and-phonegap/)
+Inspired by <a href="http://blog.mncc.fr/2014/02/10/quickly-start-app-with-yeoman-ionic-angular-and-phonegap/">MNCC Blog</a>
 
 Thanks!
