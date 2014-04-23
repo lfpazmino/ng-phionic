@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.codex.app" version="1.0.0">
+
+	<name>Codex</name>
+	<description>Codex App</description>
+
+	<author href="http://codex.com" email="support@codex.com">
+		Codex Support Team
+	</author>
+
+	<!-- gap:platform name="android" /-->
+
+	<preference name="phonegap-version" value="3.3.0" />
+	<preference name="orientation" value="default" />
+	<preference name="fullscreen" value="false" />
+
+	<preference name="webviewbounce" value="false" />
+	<preference name="UIWebViewBounce" value="false" />
+	<preference name="DisallowOverscroll" value="true" />
+
+	<preference name="android-minSdkVersion" value="7" />
+	<preference name="android-installLocation" value="auto" />
+
+	<icon src="ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="xxhdpi.png" gap:platform="android" gap:density="xxhdpi" />
+
+	<access origin="*" />
+
+</widget>
