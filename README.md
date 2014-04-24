@@ -5,7 +5,7 @@ Angular/Phonegap/Ionic Seed Project
 
 Date: April 22, 2014
 
-Ionic Reference Implementation for tabs style
+Ionic Reference Implementation for sidemenu style
 
 After cloning the project, execute the following commands:
 
