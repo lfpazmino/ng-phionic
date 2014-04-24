@@ -29,7 +29,7 @@ Bower Libraries Dependencies ('bower.json'):
 *Generate native apps*
 > grunt generate
 
-Currently supporting only android, ios will be updated as soon as possible
+Currently supporting only android, ios will be updated soon
 
 
 Inspired by [MNCC Blog](http://blog.mncc.fr/2014/02/10/quickly-start-app-with-yeoman-ionic-angular-and-phonegap/ "MNCC Blog")

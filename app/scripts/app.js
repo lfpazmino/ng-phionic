@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('codexApp', ['ionic', 'codexControllers']);
+angular.module('sampleApp', ['ionic', 'sampleControllers']);

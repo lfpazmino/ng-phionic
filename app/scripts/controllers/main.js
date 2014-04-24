@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('codexControllers', [])
+angular.module('sampleControllers', [])
 
 .controller('MainController', function () {
 	// TODO

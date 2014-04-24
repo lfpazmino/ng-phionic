@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.codex.app" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.sample.app" version="1.0.0">
 
-	<name>Codex</name>
-	<description>Codex App</description>
+	<name>Sample</name>
+	<description>Sample App</description>
 
-	<author href="http://codex.com" email="support@codex.com">
-		Codex Support Team
+	<author href="http://sample.com" email="support@sample.com">
+		Sample Support Team
 	</author>
 
 	<!-- gap:platform name="android" /-->
