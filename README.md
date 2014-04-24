@@ -1,8 +1,11 @@
-ng-phionic
-==========
+ng-phionic-tabs
+===============
 
 Angular/Phonegap/Ionic Seed Project
+
 Date: April 22, 2014
+
+Ionic Reference Implementation for tabs style
 
 After cloning the project, execute the following commands:
 
@@ -29,7 +32,7 @@ Bower Libraries Dependencies ('bower.json'):
 *Generate native apps*
 > grunt generate
 
-Currently supporting only android, ios will be updated as soon as possible
+Currently supporting only android, ios will be updated soon
 
 
 Inspired by [MNCC Blog](http://blog.mncc.fr/2014/02/10/quickly-start-app-with-yeoman-ionic-angular-and-phonegap/ "MNCC Blog")
